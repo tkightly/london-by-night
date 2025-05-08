@@ -1,4 +1,4 @@
-# 🧛 Session 0 Plan — *Vampire: The Masquerade*
+# Session 0 Plan — *Vampire: The Masquerade*
 
 ## 1. Welcome & Tone Setting (10–15 min)
 - **Introduce the Game**:
