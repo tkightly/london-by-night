@@ -20,15 +20,15 @@ Nevertheless, it is an exciting time to be in London - alive or dead; the advent
 
 Unless stopped, the Church's plan will unfold across five phases:
 
-1. **Whispers in the Shadows
+1. **Whispers in the Shadows**
     - Cult activity is quiet but spreading. Mortals disappear. Strange symbols appear in alleyways.
 2. **The First Bleeding**
     - Sacrifices begin. Cult draws attention from the Tremere and Nosferatu.
-3. **The Shepherd’s Ascension*
+3. **The Shepherd’s Ascension**
     - Father Solomon gains spiritual power. Thin-Blood alchemists defect to the Church.
-4. **Rapture
+4. **Rapture**
     - A mass conversion of ghouls and Kindred. Public masquerade breaches begin.
-5. **The Angel Rules
+5. **The Angel Rules**
     - The Angel is born—a Methuselah, or something worse. London falls into mystical theocracy.
 
 ## Player Involvement Options
