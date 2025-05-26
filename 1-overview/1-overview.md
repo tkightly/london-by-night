@@ -33,11 +33,8 @@ Unless stopped, the Church's plan will unfold across five phases:
 
 ## Player Involvement Options
 
-Your coterie could be:
+Your coterie is:
 - **Camarilla Troubleshooters**: Assigned to quietly investigate and contain the cult.
-- **Neonates with a Fragile Domain**: Their territory is threatened by cult encroachment.
-- **Independent Agents**: Seeking power, recognition, or revenge—caught in the crossfire.
-- **Outcasts**: Thin-Bloods, Caitiff, or Anarchs trying to survive by exploiting the chaos.
 
 ## Key Factions
 
