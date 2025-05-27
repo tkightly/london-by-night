@@ -62,7 +62,7 @@
 
 * caused by provocation - insults, humiliation or agression
 
-#### Hungery frenzy
+#### Hunger frenzy
 
 * caused by failing rouse check at hunger 5 or other triggers as below
 * seeks fresh human blood from the closest source
@@ -87,7 +87,7 @@
 | Fully exposed to direct sunlight | 4 |
 
 
-### 🩸 Aggravated Damage Sources for Vampires (V5 - RAW)
+### 🩸 Aggravated Damage Sources for Vampires
 
 | **Source**            | **Description**                                                                 | **Damage (RAW)**                                                    |
 |----------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------|
