@@ -8,7 +8,7 @@
 **Desire:** Uncover the Church of Eternal Night’s true purpose  
 **Concept:** Cold, calculating administrator and secret occult investigator  
 
----
+An elder with the poise of an academic and the chill of something far older. He appears in his late 60s, tall and gaunt, with silver-white hair neatly combed back. His eyes are dark and unreadable behind rimless glasses, and his voice is precise, quiet, and impossible to ignore. Always impeccably dressed in tailored suits, he carries the scent of parchment, dust, and clove. He radiates authority not through volume, but with silence and scrutiny.
 
 ## 📜 Attributes
 

@@ -1,9 +1,9 @@
 # 🧍‍♂️ Elias Crane – Ghoul of Gregory Shaw
 
-**Role:** Personal assistant, courier, and research aide  
+**Role:** Personal assistant
 **Type:** Ghoul (bound to Gregory Shaw)  
 **Ghouled Since:** 2014  
-**Concept:** Quietly efficient and utterly loyal. Once a theology student; now immersed in occult studies at Shaw’s command. Fears losing his mind—and his purpose.  
+**Concept:** A bit lecherous but utterly loyal. Once a theology student; now immersed in occult studies at Shaw’s command. Fears losing his mind—and his purpose.  
 
 ---
 
