@@ -101,4 +101,44 @@
 | **Bestial Failure on Powers (e.g., Oblivion)** | Some disciplines can backlash with Aggravated damage on critical/bestial fails. | 1+ Aggravated (varies by power).                                   |
 | **Cold Iron (vs. Banu Haqim bane)** | Only applies to Banu Haqim clan.                                              | Deals Aggravated damage to Banu Haqim only.                         |
 
+# The Six Traditions – *Vampire: The Masquerade*
 
+## 1. The First Tradition: The Masquerade
+> "Thou shalt not reveal thy true nature to those not of the Blood. Doing so shall renounce thy claims of Blood."
+
+Vampires must hide their existence from mortals. Violating this law threatens all Kindred and is punished severely.
+
+---
+
+## 2. The Second Tradition: The Domain
+> "Thy domain is thine own concern. All others owe thee respect while in it. None may challenge thy word in thy domain."
+
+A vampire controls their own territory. Visitors must respect the authority of the domain's ruler.
+
+---
+
+## 3. The Third Tradition: The Progeny
+> "Thou shalt only sire another with the permission of thine elder. If thou createst another without thine elder’s leave, both thou and thy progeny shall be slain."
+
+You need permission to create (Embrace) another vampire. Unauthorized siring is a grave offense.
+
+---
+
+## 4. The Fourth Tradition: The Accounting
+> "Those thou create are thine own children. Until thy progeny shall be released, thou shalt command them in all things. Their sins are thine to endure."
+
+A sire is responsible for their childe until they are officially released into Kindred society.
+
+---
+
+## 5. The Fifth Tradition: Hospitality
+> "Honor one another’s domain. When thou comest to a foreign city, thou shalt present thyself to the one who ruleth there. Without the word of acceptance, thou art nothing."
+
+When entering another’s domain, you must present yourself to the local authority (usually a Prince).
+
+---
+
+## 6. The Sixth Tradition: Destruction
+> "Thou art forbidden to destroy another of thy kind. The right of destruction belongeth only to thine elder. Only the eldest among thee shall call the Blood Hunt."
+
+You may not kill another Kindred without permission. Only elders can sanction destruction, often through a Blood Hunt.
