@@ -76,6 +76,62 @@
 
 ## Outside
 
+* the odd Kine walks past the station, coat collars turned up against the drizzle, their eyes glancing from building to building, but barely seeing
+    * they do hurry when they need to move past the PCs
+* the station itself is concrete, the front entrance boarded up with plywood
+* on either side is a barbers and a pet shop, there's also a bus shelter, off licence and what looks like flats along the rest of the street
 
+> Toreador Clan reaction:
+> 
+> * how does your character react to something so devoid of art?
 
+### Getting inside
 
+* pry open plywood
+* look for a way onto the roof
+    * soaring leap?
+    * find a way to climb?
+    * go up throught the adjacent properties?
+    * then go through air con units/air vents?
+
+## Lobby/ticket hall
+
+* some of the turnstiles are seized, some are gone, perhaps for scrap metal
+* all of the ticket machines are pried open, rolls of blank tickets spill across the floor among a few copper coins
+* lights are off, some hang bv the cables
+* glass panels in the ceiling bring some light from outside in, but the glass is broken and rain is coming through, rusting the turnstiles away slowly
+* phone booths are smashed open (no dial tone)
+
+~> North platform (via stairs)
+~> South platform (via stairs)
+
+## South platform
+
+As you come down the stairs...
+* very dark
+* water is tricking down the stairs and beginning to pool in the tracks
+* you hear whispers
+    * **worship him**
+    * **love him**
+
+Then at the platform
+
+* the whispers stop
+* You see an inverted wooden crucifix, easily large enough to tie someone to. 
+    * It's lying down beside a bench and the extremities are stained with blood
+    * there are also symbols etched on with a crude knife
+* you slowly creep along the platform
+* the whispers start again, louder this time, until eventually...
+* As your eyes adjust to the darkness, you realise that there are dozens of tiny, tiny lights a few inches above the floor
+* the whispers stop
+
+```
+~> Lobby/ticket hall
+~> North platform
+~> South tunnels
+```
+
+* the eyes wait to see what the players do
+    * if the players pretend not to see, they do nothing
+    * if the PCs attack or fun, they attack
+    * use [character sheet](./character-sheets.md), use characters Scratch and Gnash
