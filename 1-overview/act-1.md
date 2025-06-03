@@ -10,6 +10,7 @@
 
 * Players will have received a note through the door of their haven during the day while they slept, requesting their presence at an address in Mayfair near Grosvenor Square.
     * Which is the Tremere Chantry to talk to [Seneschal Gregory Shaw ](../3-characters/seneschal-gregory-shaw.md)
+        * players may roll `Intelligence + Ettiquette` to see if they remember who this is
     * note reads:
 
     ```
@@ -47,7 +48,7 @@
 
 * After all characters have arrived, [Gregory Shaw](../3-characters/seneschal-gregory-shaw.md) will shuffle in
 
-### Conversation
+## Conversation
 
 * thanks for coming
 * the Camarilla is offering you the opportunity to prove your loyalty
@@ -60,7 +61,7 @@
     * Our Nosferatu scouts were looking for Black Jack hideouts and they came across a rather nasty site of.. shall we say **worship**?
     * They were not overly concerned, certainly little in the underground system would spook a Nosferatu, but they did report it. Sadly, they were disturbed by human activity - probably homeless - at the site and did not get the opportunity for a good look around.
 * this is where you come in. The station is only one stop south on the Northern line from Camden Town, close enough to Black Jack territory to cause trouble.
-    * Which is why the Camarilla will not be sending any of the usual suspects to investigate... the Primogen has instructed me to find fresh blood for the task that will be obviously on Camarilla duty and will provide a level of plausible deniability
+    * Which is why the Camarilla will not be sending any of the usual suspects to investigate... the Primogen has instructed me to find fresh blood for the task that will not be obviously on Camarilla duty and will provide a level of plausible deniability
     * Of course i mention this to you only in the interest of full transparency
 * Your task is to:
     * investigate the site
@@ -68,6 +69,12 @@
     * ideally don't interact with the Black Jacks. If it can't be avoided, at least don't start a war...
     * above all... adhere to the Masquerade
     * report your findings directly to me. The primogen is anxious to find out if this is something to be concerned with or if they can get back to figuring out how to reclaim the stolen territory.
+
+# Scene 3
+
+* Presumably players will go to investigate the [Hurdwick Underground Station](../2-locations/hurdwick-underground-station.md)
+
+## Outside
 
 
 
