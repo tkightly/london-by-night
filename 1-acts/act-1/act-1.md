@@ -13,19 +13,12 @@
         * players may roll `Intelligence + Ettiquette` to see if they remember who this is
     * note reads:
 
-    ```
-    Dear `name`,
-
-    The Primogen has requested your presence at the below address at 8 o'clock sharp on Wednesday 8th December.
-
-    My manservant Mr Crane will allow you in and take care of you. Please do not be alarmed by him.
-
-    Do not discuss this matter with anyone prior to your arrival.
-
-    Yours sincerely,
-
-    Gregory Shaw, PhD
-    ```
+    >Dear `name`,
+    >The Primogen has requested your presence at the below address at 8 o'clock sharp on Wednesday 8th December.
+    >My manservant Mr Crane will allow you in and take care of you. Please do not be alarmed by him.
+    >Do not discuss this matter with anyone prior to your arrival.
+    >Yours sincerely,
+    >Gregory Shaw, PhD
 
   * Perhaps Julianna will have received a call from her Sire?
 
@@ -102,8 +95,8 @@
 * glass panels in the ceiling bring some light from outside in, but the glass is broken and rain is coming through, rusting the turnstiles away slowly
 * phone booths are smashed open (no dial tone)
 
-~> North platform (via stairs)
-~> South platform (via stairs)
+-> North platform (via stairs)
+-> South platform (via stairs)
 
 ## South platform
 
@@ -125,11 +118,9 @@ Then at the platform
 * As your eyes adjust to the darkness, you realise that there are dozens of tiny, tiny lights a few inches above the floor
 * the whispers stop
 
-```
-~> Lobby/ticket hall
-~> North platform
-~> South tunnels
-```
+-> Lobby/ticket hall
+-> North platform
+-> South tunnels
 
 * the eyes wait to see what the players do
     * if the players pretend not to see, they do nothing
