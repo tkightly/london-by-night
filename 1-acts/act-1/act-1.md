@@ -135,7 +135,7 @@ Then at the platform
 
 * tunnel has some patchy emergency lighting
 * power cables sway from the movement of a recent train
-* blood trail leads into a maintenance door in the wall the leads to **Ancient Shrine**
+* blood trail leads into a maintenance door in the wall the leads to **Makeshift Shrine**
 
 -> South Platform
 -> Ancient Shrine
@@ -160,8 +160,8 @@ Anyone who gets close to the altar:
 > (Intelligence + Academics to translate, difficulty 4) **OR Auspex Vision, below**
 > "The spiral drinks, but is never full."
 
-**OR**
+OR
 
 > Auspex Vision (if something has auspex...(
-> “The altar drinks, but is never full.”
+> “The spiral drinks, but is never full.”
 > Vision: A stone altar seen through blurred eyes, blood cascading over its sides, vanishing into cracks. No matter how much pours, the stone remains parched.
