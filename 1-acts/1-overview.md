@@ -50,3 +50,6 @@ Your coterie is:
 - **The Chantry Ruins** – Former Tremere stronghold in Southwark, desecrated.
 - **The Neon Market** – Thin-Blood gathering in Croydon—divided on how to respond.
 
+### Why won't the camarilla get involved?
+
+* [Dr Lucille Fairfax](../3-characters/camarilla.md), (Malkavian Primogen) has been trying to advise the council to investigate the threat for weeks, but the Primogen are in full deniability. The most they have agreed to is to send a small coterie to investigate the threat

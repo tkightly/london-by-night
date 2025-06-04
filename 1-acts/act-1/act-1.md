@@ -98,6 +98,7 @@
 -> North platform (via stairs)
 -> South platform (via stairs)
 
+# Scene 4
 ## South platform
 
 As you come down the stairs...
@@ -111,18 +112,56 @@ Then at the platform
 
 * the whispers stop
 * You see an inverted wooden crucifix, easily large enough to tie someone to. 
-    * It's lying down beside a bench and the extremities are stained with blood
-    * there are also symbols etched on with a crude knife
+    * It's lying down beside a bench and the extremities are stained with fresh blood. A blood trail leads into the **South Tunnels**
+    * A symbol is etched with a crude knife, in the form of a intricate spiral (intelligent + occult difficulty 3 to identify as associated with an entity of some kind that is ancient. 5 successes will grant you the name **Nyog’Sothael, the Heart Beneath**)
 * you slowly creep along the platform
 * the whispers start again, louder this time, until eventually...
 * As your eyes adjust to the darkness, you realise that there are dozens of tiny, tiny lights a few inches above the floor
 * the whispers stop
 
+### Encounter
+* the eyes wait to see what the players do
+    * if the players pretend not to see, they do nothing
+    * if the PCs attack or fun, they attack
+* use [character sheet](./character-sheets.md), use characters Scratch and Gnash
+
+> if it looks like it's going bad, an underground train will come through the station very fast and spook the rats
+
 -> Lobby/ticket hall
 -> North platform
 -> South tunnels
 
-* the eyes wait to see what the players do
-    * if the players pretend not to see, they do nothing
-    * if the PCs attack or fun, they attack
-    * use [character sheet](./character-sheets.md), use characters Scratch and Gnash
+## South tunnels
+
+* tunnel has some patchy emergency lighting
+* power cables sway from the movement of a recent train
+* blood trail leads into a maintenance door in the wall the leads to **Ancient Shrine**
+
+-> South Platform
+-> Ancient Shrine
+
+# Scene 5
+## Makeshift Shrine
+
+
+A converted maintenance room.
+* The walls have been roughly scraped and scratched with the same intricate spiral as on the cross using charcoal and blood
+* A faint reek of rot and incense clings to the air.
+* It feels wrongly silent, as if sound itself is afraid to remain.
+
+An altar has been constructed in the center of the room
+* A stack of bricks and rebar, acting as a makeshift altar.
+* A rusted meat hook hangs above it, still slick with blood.
+* Beside it: a glass jar full of teeth, human and animal mixed.
+
+Anyone who gets close to the altar:
+
+> You hear whispers in an unknown language
+> (Intelligence + Academics to translate, difficulty 4) **OR Auspex Vision, below**
+> "The spiral drinks, but is never full."
+
+**OR**
+
+> Auspex Vision (if something has auspex...(
+> “The altar drinks, but is never full.”
+> Vision: A stone altar seen through blurred eyes, blood cascading over its sides, vanishing into cracks. No matter how much pours, the stone remains parched.
