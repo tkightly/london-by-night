@@ -143,7 +143,6 @@ Then at the platform
 # Scene 5
 ## Makeshift Shrine
 
-
 A converted maintenance room.
 * The walls have been roughly scraped and scratched with the same intricate spiral as on the cross using charcoal and blood
 * A faint reek of rot and incense clings to the air.
@@ -165,3 +164,26 @@ OR
 > Auspex Vision (if something has auspex...(
 > “The spiral drinks, but is never full.”
 > Vision: A stone altar seen through blurred eyes, blood cascading over its sides, vanishing into cracks. No matter how much pours, the stone remains parched.
+
+* after the players knock down the shrine:
+> Players hear speech in an unknown language, in a deep, inhuman voice
+> "Zar'khal vethunei, kha'morai Caini. Vithruk na'zaar sil'theka, eth gharral vorrth venakai sha'veth."
+> as it is spoken, it is carved into the concrete of the wall in front of them. After a few seconds, it begins to fade, slowly
+> (Intelligence + Academics to translate, difficulty 4. Anybody with Auspex - difficulty 2 instead)
+> "I see you, Children of Caine. Your vitae shall sate my flesh, and I shall savour the taste of your bloodline with delight."
+
+Players will presumably want to exit the station not long after seeing that
+
+# Scene 6 - Encounter - Bob & Barry
+
+* upon reaching the lobby again, players will see blue flashing lights from the street, and hear some voices on the other side of the plywood covering the doors
+
+> 1 - what's going on here then
+> 2 - some kind of break-in reported
+> 1 - we get them here all the time, it's just teenagers innit? They love to break in and make a mess, that's all
+> 2 - but it's not safe in there, we can't just leave without at least having a gander
+> 1 - all right then mate
+
+Then without further ado, torchlight beams through the lobby 
+
+* see [character sheets](./character-sheets.md)

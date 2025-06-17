@@ -1,5 +1,12 @@
 # Rules aide memoire
 
+## Combat Suggestions
+
+* give each player playing card from 1-13 as their initiative
+  * shuffle every round (if I remember)
+* give each player an index card, upon which they will write their character's action in general terms (i.e. attack character X, dodge, move to X)
+* when that players action comes around, they reveal what their character's action will be
+
 ## Difficulty reminders
 
 | Difficulty of action | Difficulty number |
@@ -16,7 +23,7 @@
 
 * Characters may spend 1 point of willpower to re-roll up to 3 regular dice on any one skill or attribute roll, including involving disciplines
 * cannot reroll Hunger dice or a tracker roll such as Willpower or Humanity
-* A spent point of Willpower counts as having sistained a lovel of superficial damage to willpower
+* A spent point of Willpower counts as having sustained a lovel of superficial damage to willpower
 
 ## Blush of Life
 
@@ -46,6 +53,8 @@
 
 * Roll willpower + one third of humanity against difficulty set by Storyteller
 * on success, they resist frenzy
+* players can't use Blood Surge but they can do willpower rerolls
+* players don't replace vampire dice with blood dice
 
 ### While in frenzy
 
@@ -70,8 +79,8 @@
 
 |Provocation | difficulty|
 | --------- | --------- |
-|Sight of open woung or smell of blood at hunger 4 | 2 |
-|Taste of blood at hunger 4 | 3 |
+| Sight of open wound or smell of blood at hunger 4 | 2 |
+| Taste of blood at hunger 4 | 3 |
 | Fail rouse check at hunger 5 | 4 |
 
 #### Terror frenzy

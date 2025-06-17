@@ -12,9 +12,12 @@
 
 * things that might happen when players return to their havens
 
-| Player | Occurrence | time |
-| ------ | --------- | ---- |
-| Hugh | Hugh gets a call from his boss (sire) , who wants Hugo find someone to for them to enjoy at the `party tonight` (refer to [the-wolfe-street-party.md](./the-wolfe-street-party.md) | sometime after arriving home |
-| Sal | Sal is invited to a `Retirement Party` for his pal `Reggie Blaine`.  see [the-retirement-party.md](./the-retirement-party.md)  | Sal runs into his pal Reggie while on the way home and Reggie tells him he's been looking for him everywhere and asks where he's staying at the minute |
+## Hugh
+
+Hugh gets a call from his boss (sire) not long after he return home , who wants Hugo find someone to for them to enjoy at the `party tonight` (refer to [the-wolfe-street-party.md](./the-wolfe-street-party.md)
+
+## Sal
+
+Sal runs into his pal Reggie while on the way home and Reggie tells him he's been looking for him everywhere and asks where he's staying at the minute. Sal is invited to a `Retirement Party` for his pal `Reggie Blaine`.  see [the-retirement-party.md](./the-retirement-party.md)
 
 

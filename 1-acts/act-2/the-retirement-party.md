@@ -8,6 +8,7 @@
   * they begin to sway and then everything goes silent as everytime turns to watch
   * then their eyes turn completely black and go still 
   * one them them takes knife from the counter and slahes the throat of the other, who drops to the floor with a happy smile on his face
+    * Any vampire present is to do a **Hunger Frenzy** roll at Difficulty 3
   * the one with the knife says in a deep, otherworldly voice "The blood must flow"
   * Sal or someone will notice that one of the lads is filming it on camcorder
 
