@@ -1,6 +1,7 @@
 # Session 0 Plan — *Vampire: The Masquerade*
 
 ## 1. Welcome & Tone Setting (10–15 min)
+
 - **Introduce the Game**:
   - "Vampire: The Masquerade is a game of personal horror."
   - Players portray monsters struggling to maintain their humanity.
@@ -14,6 +15,7 @@
 ---
 
 ## 2. Content Boundaries & Safety Tools (15–20 min)
+
 - **Lines and Veils**:
   - *Lines*: Content not allowed at all.
   - *Veils*: Content that may exist but not be described in detail.
@@ -25,6 +27,7 @@
 ---
 
 ## 3. Game Expectations & Playstyle (15–20 min)
+
 - **Game Structure**:
   - Sandbox? Political thriller? Mystery?
 - **Intra-party Conflict**:
@@ -36,6 +39,7 @@
 ---
 
 ## 4. Setting Overview (15 min)
+
 - **City**:
   - Real-world or fictional?
 - **Political Landscape**:
@@ -48,6 +52,7 @@
 ---
 
 ## 5. Clan & Character Primer (20–30 min)
+
 - **Overview of Clans**:
   - Describe each clan’s vibe, strengths, flaws.
 - **Character Concepts**:
@@ -60,6 +65,7 @@
 ---
 
 ## 6. Group Concept & Connections (15–20 min)
+
 - **Shared Coterie Concept** (optional but helpful):
   - Clean-up crew? Watchdogs? Artists? Investigators?
 - **Pre-Existing Relationships**:
@@ -69,6 +75,7 @@
 ---
 
 ## 7. Next Steps & Homework (5–10 min)
+
 - **Before Character Creation**:
   - Choose 1–2 clans to explore.
   - Sketch a mortal life pre-Embrace.
@@ -79,8 +86,8 @@
 ---
 
 ## Optional: Tools to Provide
+
 - Clan cheat sheets or summaries
 - Blank character sheets or V5 fillable PDFs
 - Safety tool summaries (X-card, Script Change, etc.)
 - World/City primer (if homebrew)
-
