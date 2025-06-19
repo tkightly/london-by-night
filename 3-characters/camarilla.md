@@ -1,3 +1,5 @@
+# Camarilla Characters
+
 ## 🍖 Camarilla of London – Organizational Chart (Primogen Rule)
 
 | Role                     | Name                 | Clan      | Summary                                                                                                             |
@@ -29,4 +31,3 @@
 * **Gangrel & Thin-Bloods**: Largely ostracized or left out. Many believe the council is too old-school to adapt.
 * **Anarch Sympathizers**: Cassandra Blythe and Jax Morgan are rumored to pass information under the table.
 * **The Cult's Hand**: Whispers say someone *on the Primogen Council* is already enthralled by the Church.
-

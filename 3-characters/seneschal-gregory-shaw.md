@@ -12,17 +12,20 @@ An elder with the poise of an academic and the chill of something far older. He 
 
 ## 📜 Attributes
 
-### Physical
+### Physical Attributes
+
 - **Strength:** ⚫⚫  
 - **Dexterity:** ⚫⚫⚫  
 - **Stamina:** ⚫⚫  
 
-### Social
+### Social Attributes
+
 - **Charisma:** ⚫⚫⚫  
 - **Manipulation:** ⚫⚫⚫⚫  
 - **Composure:** ⚫⚫⚫⚫  
 
-### Mental
+### Mental Attributes
+
 - **Intelligence:** ⚫⚫⚫⚫  
 - **Wits:** ⚫⚫⚫  
 - **Resolve:** ⚫⚫⚫⚫  
@@ -31,17 +34,20 @@ An elder with the poise of an academic and the chill of something far older. He 
 
 ## 🛠️ Skills
 
-### Physical
+### Physical Skills
+
 - **Stealth:** ⚫⚫  
 - **Firearms:** ⚫⚫  
 
-### Social
+### Social Skills
+
 - **Persuasion:** ⚫⚫⚫  
 - **Subterfuge:** ⚫⚫⚫⚫  
 - **Leadership:** ⚫⚫⚫⚫  
 - **Etiquette:** ⚫⚫⚫  
 
-### Mental
+### Mental Skills
+
 - **Occult:** ⚫⚫⚫⚫  
 - **Politics:** ⚫⚫⚫⚫  
 - **Insight:** ⚫⚫⚫⚫  
@@ -53,15 +59,18 @@ An elder with the poise of an academic and the chill of something far older. He 
 ## 🧬 Disciplines
 
 ### Blood Sorcery ⚫⚫⚫  
+
 - **Taste for Blood**  
 - **Purify Blood**  
 - **Theft of Vitae**  
 
 ### Dominate ⚫⚫  
+
 - **Cloud Memory**  
 - **Mesmerize**  
 
 ### Auspex ⚫⚫  
+
 - **Sense the Unseen**  
 - **Premonition**  
 
@@ -70,17 +79,20 @@ An elder with the poise of an academic and the chill of something far older. He 
 ## 🧠 Advantages & Flaws
 
 ### Backgrounds
+
 - **Status (Camarilla):** ⚫⚫⚫⚫  
 - **Haven (Secure Estate in Mayfair):** ⚫⚫⚫  
 - **Allies (Occult Researchers):** ⚫⚫  
 - **Resources:** ⚫⚫⚫⚫  
 
 ### Merits
+
 - **Calm Heart:** ⚫⚫  
 - **Iron Will:** ⚫  
 - **Danger Sense:** ⚫⚫  
 
 ### Flaws
+
 - **Prey Exclusion (Innocents)**  
 - **Clan Bane (Tremere)** – Must rouse to use Blood Sorcery  
 - **Obsessed (Church of Eternal Night)**  

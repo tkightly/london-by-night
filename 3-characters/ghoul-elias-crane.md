@@ -9,17 +9,20 @@
 
 ## 📜 Attributes
 
-### Physical
+### Physical Attribute
+
 - **Strength:** ⚫⚫  
 - **Dexterity:** ⚫⚫⚫  
 - **Stamina:** ⚫⚫  
 
-### Social
+### Social Attribute
+
 - **Charisma:** ⚫⚫  
 - **Manipulation:** ⚫⚫  
 - **Composure:** ⚫⚫⚫  
 
-### Mental
+### Mental Attribute
+
 - **Intelligence:** ⚫⚫⚫  
 - **Wits:** ⚫⚫⚫  
 - **Resolve:** ⚫⚫⚫  
@@ -28,17 +31,20 @@
 
 ## 🛠️ Skills
 
-### Physical
+### Physical Skills
+
 - **Stealth:** ⚫⚫  
 - **Firearms:** ⚫  
 - **Athletics:** ⚫  
 
-### Social
+### Social Skills
+
 - **Persuasion:** ⚫⚫  
 - **Subterfuge:** ⚫  
 - **Etiquette:** ⚫⚫  
 
-### Mental
+### Mental Skills
+
 - **Occult:** ⚫⚫⚫  
 - **Academics (Theology):** ⚫⚫⚫  
 - **Technology:** ⚫⚫  
@@ -49,6 +55,7 @@
 ## 💉 Powers
 
 ### Ghoul Traits
+
 - **Vitae Dependency:** Must drink Shaw’s blood at least once per month.  
 - **Enhanced Physicality:** Can use one dot of Potence granted by Gregory’s vitae.  
 - **Longevity:** Appears youthful, aging halted.  
@@ -59,12 +66,14 @@
 ## 🧠 Advantages & Flaws
 
 ### Advantages
+
 - **Loyal Retainer (Gregory’s Protection):** ⚫⚫  
 - **Occult Training:** ⚫⚫  
 - **Secure Residence (Haven Access):** ⚫⚫  
 - **Academic Credentials:** ⚫  
 
 ### Flaws
+
 - **Addiction (Vitae):** ⚫⚫⚫  
 - **Nightmares (Church Visions):** ⚫  
 - **Dependent:** ⚫⚫ (Needs Gregory for meaning and access to blood)  

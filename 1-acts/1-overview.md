@@ -1,4 +1,5 @@
 # Campaign Overview
+
 ## Summary
 
 **Name:** London by Night
@@ -34,6 +35,7 @@ Unless stopped, the Church's plan will unfold across five phases:
 ## Player Involvement Options
 
 Your coterie is:
+
 - **Camarilla Troubleshooters**: Assigned to quietly investigate and contain the cult.
 
 ## Key Factions
@@ -52,4 +54,4 @@ Your coterie is:
 
 ### Why won't the camarilla get involved?
 
-* [Dr Lucille Fairfax](../3-characters/camarilla.md), (Malkavian Primogen) has been trying to advise the council to investigate the threat for weeks, but the Primogen are in full deniability. The most they have agreed to is to send a small coterie to investigate the threat
+- [Dr Lucille Fairfax](../3-characters/camarilla.md), (Malkavian Primogen) has been trying to advise the council to investigate the threat for weeks, but the Primogen are in full deniability. The most they have agreed to is to send a small coterie to investigate the threat

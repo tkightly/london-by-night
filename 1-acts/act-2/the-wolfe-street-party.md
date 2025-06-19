@@ -7,5 +7,3 @@
 
 * In the meeting room, there will be charts on easels around the room showing the increase or decrease in value or certain stocks or shares. on each, a particular portion of each chart is highlighted and annotated showing the company's insight into the reason fro growth etc. The annotation is done on a clear plastic OHP sheet, so that it can be removed. Something about it gives you the heeby jeebies
   * **Intelligence/Wits + Finance (diff 2)** - you will see that when all the clear plastic sheets are combined, the lines drawn on them form a spiky circle. You see a flash of the Thames but filled with blood instead and take one point of superficial willpower damage
-
-
