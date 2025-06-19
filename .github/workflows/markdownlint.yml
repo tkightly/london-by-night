@@ -1,0 +1,26 @@
+name: Lint Markdown
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+  pull_request:
+    paths:
+      - '**/*.md'
+
+jobs:
+  markdownlint:
+    name: Run markdownlint-cli
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run markdownlint-cli via Docker
+        run: |
+          docker run --rm \
+            -v "${{ github.workspace }}:/workdir" \
+            ghcr.io/igorshubovych/markdownlint-cli:latest \
+            .
+
