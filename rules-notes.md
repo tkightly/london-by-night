@@ -1,11 +1,27 @@
 # Rules aide memoire
 
+## Slaking Hunger from a Human
+
+| Feeding Method                | Hunger Slaked | Notes                                                     |
+|------------------------------|---------------|-----------------------------------------------------------|
+| **A light, careful feed**     | 1–2 Hunger     | Leaves the human alive and relatively unharmed.          |
+| **Feeding to unconsciousness**| 3 Hunger       | Human survives but will need medical attention. Risk of killing if not careful. |
+| **Feeding to death**          | 4+ Hunger      | Slakes all Hunger. This is a **Stain-worthy act** (Violation of Humanity). |
+
+---
+
+## Additional Considerations
+
+- **Bagged blood** slakes **1 Hunger** (unless you're a Banu Haqim or have Iron Gullet).
+- **Animals** typically slake **1 Hunger** at most.
+- **Diablerie** (feeding on vampires) is a separate, far more extreme act.
+
 ## Combat Suggestions
 
-* give each player playing card from 1-13 as their initiative
-  * shuffle every round (if I remember)
-* give each player an index card, upon which they will write their character's action in general terms (i.e. attack character X, dodge, move to X)
-* when that players action comes around, they reveal what their character's action will be
+- give each player playing card from 1-13 as their initiative
+  - Every round, reshuffle the cards and redeal if the situtation has meaningfully changed
+- give each player an index card, upon which they will write their character's action in general terms (i.e. attack character X, dodge, move to X)
+- when that players action comes around, they reveal what their character's action will be
 
 ## Difficulty reminders
 
@@ -21,61 +37,61 @@
 
 ## Willpower Rerolls
 
-* Characters may spend 1 point of willpower to re-roll up to 3 regular dice on any one skill or attribute roll, including involving disciplines
-* cannot reroll Hunger dice or a tracker roll such as Willpower or Humanity
-* A spent point of Willpower counts as having sustained a lovel of superficial damage to willpower
+- Characters may spend 1 point of willpower to re-roll up to 3 regular dice on any one skill or attribute roll, including involving disciplines
+- cannot reroll Hunger dice or a tracker roll such as Willpower or Humanity
+- A spent point of Willpower counts as having sustained a lovel of superficial damage to willpower
 
 ## Blush of Life
 
-* Rouse Check
+- Rouse Check
 
 ## Blood Surge
 
-* add their blood surge value on character sheet to a single dice roll
+- add their blood surge value on character sheet to a single dice roll
 
 ## Vampiric Mending
 
 ### Superficial Damage
 
-* Mend damage equal to the 'Mend Amount' value on character sheet
-* Costs 1 rouse check
-* Uses 1 turn (when in combat)
+- Mend damage equal to the 'Mend Amount' value on character sheet
+- Costs 1 rouse check
+- Uses 1 turn (when in combat)
 
 ### Aggravated Damage
 
-* At nightfall
-  * make 3 rouse checks (in addition to the one from waking...)
-  * Removes 1 aggravated damage and one crippling injury
+- At nightfall
+  - make 3 rouse checks (in addition to the one from waking...)
+  - Removes 1 aggravated damage and one crippling injury
 
 ## Frenzy
 
 ### To resist
 
-* Roll willpower + one third of humanity against difficulty set by Storyteller
-* on success, they resist frenzy
-* players can't use Blood Surge but they can do willpower rerolls
-* players don't replace vampire dice with blood dice
+- Roll willpower + one third of humanity against difficulty set by Storyteller
+- on success, they resist frenzy
+- players can't use Blood Surge but they can do willpower rerolls
+- players don't replace vampire dice with blood dice
 
 ### While in frenzy
 
-* Riding the wave - player retains some control of character
-* If not riding the wave - Storyteller gains complete control
-* Remain immune to health-based penalties
-* Can only use physical disciplines
-* Resist mental disciplines with x3 extra dice (if no resist roll required, add +2 to difficulty)
-* The player can spend x1 point of willpower to assume control of character for a single turn
+- Riding the wave - player retains some control of character
+- If not riding the wave - Storyteller gains complete control
+- Remain immune to health-based penalties
+- Can only use physical disciplines
+- Resist mental disciplines with x3 extra dice (if no resist roll required, add +2 to difficulty)
+- The player can spend x1 point of willpower to assume control of character for a single turn
 
 ### Types of frenzies
 
 #### Fury
 
-* caused by provocation - insults, humiliation or agression
+- caused by provocation - insults, humiliation or agression
 
 #### Hunger frenzy
 
-* caused by failing rouse check at hunger 5 or other triggers as below
-* seeks fresh human blood from the closest source
-* ends when vampire reaches hunger 1
+- caused by failing rouse check at hunger 5 or other triggers as below
+- seeks fresh human blood from the closest source
+- ends when vampire reaches hunger 1
 
 |Provocation | difficulty|
 | --------- | --------- |
@@ -85,7 +101,7 @@
 
 #### Terror frenzy
 
-* Danger causes terror frenzy
+- Danger causes terror frenzy
 
 |Provocation | difficulty|
 | --------- | --------- |
