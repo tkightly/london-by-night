@@ -47,67 +47,67 @@ Assuming Francis says nothing
 
 **Dr. Lyle Carter** – The "private doctor" Well-dressed, overly confident, charming in a way that feels practiced. Claims he can help Jake with “special treatments” but offers no real results. Something feels off about him — too smooth, too detached. Probably because he's a vampire
 
-**Clan:** Malkavian  
-**Generation:** 10th  
-**Concept:** Charming, Manipulative “Healer” / Snake Oil Salesman  
-**Ambition:** To unravel the minds of those who seek him and control their fates  
-**Predator Type:** Consultant  
+**Clan:** Malkavian
+**Generation:** 10th
+**Concept:** Charming, Manipulative “Healer” / Snake Oil Salesman
+**Ambition:** To unravel the minds of those who seek him and control their fates
+**Predator Type:** Consultant
 
 ## Attributes
 
-**Physical**  
+**Physical**
 
-- Strength: 2  
-- Dexterity: 3  
-- Stamina: 2  
+- Strength: 2
+- Dexterity: 3
+- Stamina: 2
 
-**Social**  
+**Social**
 
-- Charisma: 4  
-- Manipulation: 4  
-- Composure: 3  
+- Charisma: 4
+- Manipulation: 4
+- Composure: 3
 
-**Mental**  
+**Mental**
 
-- Intelligence: 3  
-- Wits: 4  
-- Resolve: 3  
+- Intelligence: 3
+- Wits: 4
+- Resolve: 3
 
 ## Skills
 
-**Physical**  
+**Physical**
 
-- Medicine: 3  
-- Stealth: 2  
-- Firearms: 1  
+- Medicine: 3
+- Stealth: 2
+- Firearms: 1
 
-**Social**  
+**Social**
 
-- Persuasion: 4  
-- Intimidation: 2  
-- Subterfuge: 3  
+- Persuasion: 4
+- Intimidation: 2
+- Subterfuge: 3
 
-**Mental**  
+**Mental**
 
-- Investigation: 3  
-- Occult: 2  
-- Insight: 3  
+- Investigation: 3
+- Occult: 2
+- Insight: 3
 
 ## Disciplines
 
-- Dementation: 3  
-- Auspex: 2  
-- Obfuscate: 1  
+- Dementation: 3
+- Auspex: 2
+- Obfuscate: 1
 
 ## Advantages
 
-- Status: 2  
-- Resources: 2  
-- Contacts: 3  
+- Status: 2
+- Resources: 2
+- Contacts: 3
 
 ## Background / Roleplay Notes
 
-- Presents as a caring, confident healer, but uses his Malkavian insight to subtly twist minds.  
-- Patients leave with more questions than answers; skeptics often question their own sanity.  
-- Uses “treatments” to manipulate and control vulnerable patients.  
-- Driven by his own fractured reality and cryptic madness whispers.  
+- Presents as a caring, confident healer, but uses his Malkavian insight to subtly twist minds.
+- Patients leave with more questions than answers; skeptics often question their own sanity.
+- Uses “treatments” to manipulate and control vulnerable patients.
+- Driven by his own fractured reality and cryptic madness whispers.

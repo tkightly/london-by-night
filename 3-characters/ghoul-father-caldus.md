@@ -67,7 +67,7 @@ Though mortal, he has long outlived his natural life through regular infusions o
 
 ## Health & Willpower
 
-- **Health**: ●●●●●●  
+- **Health**: ●●●●●●
 - **Willpower**: ●●●●●
 
 ## Notes
