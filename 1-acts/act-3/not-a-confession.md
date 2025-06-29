@@ -39,13 +39,21 @@ Assuming Francis says nothing
 
 ### Characters
 
-**Jake** – The sick child, around 8 or 9. Small, dark eyes darting around, highly anxious
+#### Jake
 
-**Tom** – The father. Late 30s or early 40s. A laborer, worn down, trying to hold things together. He’s desperate and clings to the belief that this private doctor can fix his son. Emotionally shut down, slow to anger, but on the edge.
+The sick child, around 8 or 9. Small, dark eyes darting around, highly anxious
 
-**Mara** – The mother, now a ghost. Died of illness a year or two earlier. Still present in the house — not in a haunting way, but in quiet moments, in the corners. She’s worried, helpless, and starting to suspect the doctor is dangerous.
+#### Tom
 
-**Dr. Lyle Carter** – The "private doctor" Well-dressed, overly confident, charming in a way that feels practiced. Claims he can help Jake with “special treatments” but offers no real results. Something feels off about him — too smooth, too detached. Probably because he's a vampire
+The father. Late 30s or early 40s. A laborer, worn down, trying to hold things together. He’s desperate and clings to the belief that this private doctor can fix his son. Emotionally shut down, slow to anger, but on the edge.
+
+#### Mara
+
+The mother, now a ghost. Died of illness a year or two earlier. Still present in the house — not in a haunting way, but in quiet moments, in the corners. She’s worried, helpless, and starting to suspect the doctor is dangerous.
+
+#### Dr. Lyle Carter
+
+The "private doctor" Well-dressed, overly confident, charming in a way that feels practiced. Claims he can help Jake with “special treatments” but offers no real results. Something feels off about him — too smooth, too detached. Probably because he's a vampire
 
 **Clan:** Malkavian
 **Generation:** 10th
@@ -53,59 +61,59 @@ Assuming Francis says nothing
 **Ambition:** To unravel the minds of those who seek him and control their fates
 **Predator Type:** Consultant
 
-## Attributes
+##### Attributes
 
-**Physical**
+###### Physical Attribute
 
 - Strength: 2
 - Dexterity: 3
 - Stamina: 2
 
-**Social**
+###### Social Attribute
 
 - Charisma: 4
 - Manipulation: 4
 - Composure: 3
 
-**Mental**
+###### Mental Attribute
 
 - Intelligence: 3
 - Wits: 4
 - Resolve: 3
 
-## Skills
+##### Skills
 
-**Physical**
+###### Physical Skills
 
 - Medicine: 3
 - Stealth: 2
 - Firearms: 1
 
-**Social**
+###### Social Skills
 
 - Persuasion: 4
 - Intimidation: 2
 - Subterfuge: 3
 
-**Mental**
+###### Mental Skills
 
 - Investigation: 3
 - Occult: 2
 - Insight: 3
 
-## Disciplines
+##### Disciplines
 
 - Dementation: 3
 - Auspex: 2
 - Obfuscate: 1
 
-## Advantages
+##### Advantages
 
 - Status: 2
 - Resources: 2
 - Contacts: 3
 
-## Background / Roleplay Notes
+##### Background / Roleplay Notes
 
 - Presents as a caring, confident healer, but uses his Malkavian insight to subtly twist minds.
 - Patients leave with more questions than answers; skeptics often question their own sanity.
