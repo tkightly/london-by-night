@@ -35,7 +35,7 @@ Assuming Francis says nothing
 
 - Jake (child) suffers with epilepsy. There is no current treatment to *fix* it but it is manageable and understandable why you would look for a fix.
 - Tom is not aware that Mara is a ghost
-- The doctor
+- The doctor is a malkavian vampire that is actually taking Tom's blood in return for the "treatment" that is actually just snake oil. He's not actually hurting Jake but it's not helping
 
 ### Characters
 
