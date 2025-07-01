@@ -48,4 +48,60 @@
 * Voices can be heard towards the center, a chanting in an alien language
 * The center of the park is a small clearing
   * *Wits + observation @ 3* - the clearing is kind of spiral-shape
-  * The entrace to the clearing will be "guarded" by a gangrel vampire
+  * The entrace to the clearing will be "guarded" by a [gangrel vampire, vera](./vera.md)
+
+### Maps
+
+#### Map 1 (zoomed out)
+
+##### Item 1
+
+- This refers to Map 2, zoomed in area
+- A triangular intersection of the footpath, inside of which is particularly dense
+
+##### Item 2
+
+- An opening in the fence, intended to allow passage through the park.
+- Immediately outside of the park where the gateway is, a young person wearing dark clothing in hunched over, panting heavily
+  - if questioned...
+    - "blimming heck, don't go into the trees! Some super weird shit is going on, i was just walking through to get home, minding my own business... first this lady appears almost out of nowhere, i thought for a second she had orange eyes and then... I dunno i must have imagined it. Then all this chanting kind of started, in some funny language"
+
+##### Item 3
+
+- A collapsed part of the wall, climbable
+
+##### Item 4
+
+- Most of the park is forested with cypress trees, tall, dark and green. You can see between them, but there is almost no light a metre or so in
+- The lampposts a few metres into the park seem to no longer work.
+
+#### Map 2 (zoomed in)
+
+##### Item 1
+
+- A fork in the path. Vera will be stationed here, keeping an eye out
+
+###### Conversation with Vera
+
+- Vera will be conversational with Sal (Adam) and Druisilla (Brooke) and perhaps acknowledge their sacrifice
+- As for everyone else, she will be stand-offish
+
+##### Item 2
+
+- Vera might be stationed here if players approach from that direction instead
+
+##### Item 5
+
+- A clearing in the trees
+  - Candles are spread around haphazardly on the ground, lighting only the first foot or so off the ground
+  - A hole has been dug here in the earth. There is no grass anywhere in the clearing (or forest for that matter
+
+##### Item 4
+
+- A group of 7 people, sat on the ground like school childre. Their eyes have a glazed, milky appearance, as though they are not quite present
+
+##### Item 3
+
+- A gurney is placed next to the hole. It is angled such that any fluids that might drain from the body will drain into the hole
+- Placed onto the gurney is *Lillibet*, Druisilla's sister
+
