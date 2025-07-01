@@ -41,11 +41,11 @@
 
 * Druisilla & friends will visit the Church presumably to see what's happening with Lili
 
-* The park itself is icy cold, freezing in fact. There is a community center on the park that looks like it might have been a sports pavilian once
-* Visually, the Church seems to be nondescript. In fact, it seems like a community center that has been hired out for the night. It's on the ground floor,
+### The Park
 
-|   Room   | Notes                                                                      |
-| -------- | -------------------------------------------------------------------------- |
-| Exterior | Wooden front door, peeling paint, graffiti sprayed on the outside. *Wits + Awareness @ diff 2* reveals spiral is behind some of the gang tags |
-| Front entrance | Hallway with lino flooring, posters are on noticeboards advertising various community events or sporting fixtures |
-| Main hall | Laminate flooring, tables and chairs are stacked up against one wall, a huge hole is in the floor that goes down about 4 meters. Next to it is a gurney, angled so that any fluids drain into the hole |
+* The park itself is icy cold, freezing in fact. The park is dense with cypress trees, there is a track that runs through the middle with a couple of interesections
+* There is nobody to be seen. You might have seen some passersby on the way, but there is nobody accidentally walking through the park. It seems deadly still - no wildlife, no wind
+* Voices can be heard towards the center, a chanting in an alien language
+* The center of the park is a small clearing
+  * *Wits + observation @ 3* - the clearing is kind of spiral-shape
+  * The entrace to the clearing will be "guarded" by a gangrel vampire
