@@ -1,8 +1,2 @@
-{%- comment -%}
-  nav-items.html
-  Entry point to recursive nav tree.
-{%- endcomment -%}
-
 {%- assign pages = include.pages | sort: 'path' -%}
-
 {% include nav-tree.html items=pages base_path="" %}
