@@ -13,3 +13,13 @@ body {
   flex-direction: column;
   overflow-wrap: break-word;
 }
+
+.nav-item {
+      display: inherit;
+      padding: inherit;
+      margin-left: inherit;
+
+      &:not(:last-child) {
+        margin-right: $spacing-unit * 0.5;
+      }
+    }
