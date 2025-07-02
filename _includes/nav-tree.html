@@ -1,13 +1,9 @@
 {%- comment -%} nav-tree.html Parameters: - items: collection of pages or
 subfolders to process - base_path: string path prefix for current recursion
-level - current_depth: current recursion depth to prevent infinite loops {%-
-endcomment -%} {%- assign base_path = include.base_path | default: "" -%} {%-
-assign items = include.items -%} {%- assign current_depth =
-include.current_depth | default: 0 -%} {%- assign max_depth = 10 -%} {%- if
-current_depth > max_depth -%}
-<!-- Max recursion depth reached -->
-{% comment %} Stop recursion here to prevent nesting too deep {% endcomment %}
-{% break %} {%- else -%}
+level - current_depth: integer for recursion depth (default 0) {%- endcomment
+-%} {%- assign base_path = include.base_path | default: "" -%} {%- assign items
+= include.items -%} {%- assign current_depth = include.current_depth | default:
+0 -%}
 
 <ul class="nav-list">
   {%- assign grouped = items | group_by_exp: "item", "item.path | remove_first:
@@ -21,12 +17,13 @@ current_depth > max_depth -%}
     <span class="nav-group-title"
       >{{ name | replace: '-', ' ' | capitalize }}</span
     >
-    {%- assign new_base_path = base_path | append: name | append: '/' -%} {%
-    include nav-tree.html items=children base_path=new_base_path
-    current_depth=current_depth | plus: 1 %} {%- else -%} {%- for page in
-    children -%} {%- unless page.name == 'index.md' or page.path contains
-    '_site' or page.path contains '_layouts' or page.path contains '_includes'
-    or page.path contains 'assets' -%}
+
+    {%- assign new_base_path = base_path | append: name | append: '/' -%} {%-
+    assign next_depth = current_depth | plus: 1 -%} {% include nav-tree.html
+    items=children base_path=new_base_path current_depth=next_depth %} {%- else
+    -%} {%- for page in children -%} {%- unless page.name == 'index.md' or
+    page.path contains '_site' or page.path contains '_layouts' or page.path
+    contains '_includes' or page.path contains 'assets' -%}
     <a href="{{ page.url | relative_url }}" class="nav-link"
       >{{ page.title }}</a
     >
@@ -34,5 +31,3 @@ current_depth > max_depth -%}
   </li>
   {%- endfor -%}
 </ul>
-
-{%- endif -%}
