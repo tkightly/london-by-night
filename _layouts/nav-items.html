@@ -1,0 +1,27 @@
+{%- comment -%} nav-items.html Usage: {% include nav-items.html pages=site.pages
+%} {%- endcomment -%} {%- assign pages = include.pages | sort: 'path' -%} {%-
+assign groups = pages | group_by_exp: "page", "page.path | split: '/' | first"
+-%}
+
+<ul class="nav-list">
+  {%- for group in groups -%} {%- assign folder = group.name -%} {%- if folder
+  contains '-' -%}
+  <li class="nav-group">
+    <span class="nav-group-title"
+      >{{ folder | split: '-' | last | capitalize }}</span
+    >
+    <ul class="nav-sublist">
+      {%- assign sorted_pages = group.items | sort: 'path' -%} {%- for page in
+      sorted_pages -%} {%- unless page.name == 'index.md' or page.path contains
+      '_site' or page.path contains '_layouts' or page.path contains '_includes'
+      or page.path contains 'assets' -%}
+      <li class="nav-item">
+        <a href="{{ page.url | relative_url }}" class="nav-link">
+          {{ page.title }}
+        </a>
+      </li>
+      {%- endunless -%} {%- endfor -%}
+    </ul>
+  </li>
+  {%- endif -%} {%- endfor -%}
+</ul>
