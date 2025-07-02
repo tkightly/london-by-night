@@ -13,3 +13,45 @@ body {
   flex-direction: column;
   overflow-wrap: break-word;
 }
+
+/* Base styles for nested nav lists */
+.nav-list {
+  list-style: none; /* Remove default bullets */
+  padding-left: 1rem; /* Indent nested lists */
+  margin: 0; /* Reset margin */
+}
+
+.nav-list > li {
+  margin-bottom: 0.5rem;
+}
+
+/* Style for groups with sublists */
+.nav-group > .nav-group-title {
+  font-weight: 600;
+  cursor: default;
+  display: block;
+  margin-bottom: 0.25rem;
+  color: $brand-color; // or any accent color you want
+}
+
+/* Style for links inside nav items */
+.nav-item > a,
+.nav-group > a {
+  display: block;
+  padding: 0.25rem 0.5rem;
+  color: $text-color;
+  text-decoration: none;
+  border-radius: 3px;
+
+  &:hover,
+  &:focus {
+    background-color: lighten($background-color, 10%);
+    color: darken($brand-color, 10%);
+    outline: none;
+  }
+}
+
+/* Remove float and inline display from nav-item links on desktop */
+@media screen and (min-width: $on-medium) {
+  .nav-item {
+    displ
