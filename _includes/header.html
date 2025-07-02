@@ -17,12 +17,14 @@
 
       <div class="drawer-container">
         <div class="drawer">
-          {% include generateDynamicMenu.html root="/london-by-night" %}
+          {% include generateDynamicMenu.html baseurl="/london-by-night"
+          root="/london-by-night" %}
         </div>
       </div>
 
       <div class="slab">
-        {% include generateDynamicMenu.html root="/london-by-night" %}
+        {% include generateDynamicMenu.html baseurl="/london-by-night"
+        root="/london-by-night" %}
       </div>
     </nav>
     {%- endunless %}
