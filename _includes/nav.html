@@ -1,0 +1,22 @@
+<nav>
+  <ul>
+    {% assign nav_pages = site.pages | sort: 'path' %} {% assign groups =
+    nav_pages | group_by_exp: "page", "page.path | split: '/' | first" %} {% for
+    group in groups %} {% assign folder_name = group.name %} {% if folder_name
+    contains '-' %}
+    <li>
+      <strong>{{ folder_name | split: '-' | last | capitalize }}</strong>
+      <ul>
+        {% assign sorted_pages = group.items | sort: 'path' %} {% for item in
+        sorted_pages %} {% unless item.name == "index.md" or item.path contains
+        '_site' or item.path contains '_layouts' or item.path contains
+        '_includes' %}
+        <li>
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        </li>
+        {% endunless %} {% endfor %}
+      </ul>
+    </li>
+    {% endif %} {% endfor %}
+  </ul>
+</nav>
