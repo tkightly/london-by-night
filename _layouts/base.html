@@ -3,9 +3,11 @@
   {%- include head.html -%}
 
   <body>
-    {%- include header.html -%} {% include generateDynamicMenu.html
-    baseurl="/london-by-night" root="/london-by-night" %}
+    {%- include header.html -%}
+
     <main class="page-content" aria-label="Content">
+      {% include generateDynamicMenu.html baseurl="/london-by-night"
+      root="/london-by-night" %}
       <div class="wrapper">{{ content }}</div>
     </main>
 
