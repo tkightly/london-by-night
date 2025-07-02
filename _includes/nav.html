@@ -1,8 +1,1 @@
-<ul>
-  {% for item in include.nav %}
-  <li>
-    <a href="{{ item.url }}">{{ item.title }}</a>
-    {% if item.subnav %} {% include nav.html nav=item.subnav %} {% endif %}
-  </li>
-  {% endfor %}
-</ul>
+{% include generateDynamicMenu.html root="/london-by-night" %}
