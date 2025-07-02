@@ -1,7 +1,5 @@
-{%- comment -%} nav-tree.html Parameters: - items: collection of pages or
-subfolders to process - base_path: string path prefix for current recursion
-level {%- endcomment -%} {%- assign base_path = include.base_path | default: ""
--%} {%- assign items = include.items -%}
+{%- assign base_path = include.base_path | default: "" -%} {%- assign items =
+include.items -%}
 
 <ul class="nav-list">
   {%- assign grouped = items | group_by_exp: "item", "item.path | remove_first:
@@ -25,6 +23,5 @@ level {%- endcomment -%} {%- assign base_path = include.base_path | default: ""
     >
     {%- endunless -%} {%- endfor -%} {%- endif -%}
   </li>
-
   {%- endfor -%}
 </ul>
