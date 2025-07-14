@@ -2,8 +2,6 @@
 title: Act 2
 ---
 
-# Act 2
-
 ## Scene 1
 
 * Meeting with Seneschal

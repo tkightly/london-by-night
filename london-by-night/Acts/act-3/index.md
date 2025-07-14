@@ -2,8 +2,6 @@
 title: Act 3
 ---
 
-# Act 3
-
 - has anyone taken time to study the blueprints?
   - they show
     - sewer system in Islington

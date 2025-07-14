@@ -2,8 +2,6 @@
 title: Act 1
 ---
 
-# Act 1
-
 ## Scene 1
 
 | location | time |
