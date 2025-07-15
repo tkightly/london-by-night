@@ -20,7 +20,7 @@ jobs:
       - name: Run markdownlint-cli via Docker
         run: |
           docker run --rm \
-            -v "${{ github.workspace }}:/workdir" \
+            -v "${{ github.workspace }}/london-by-night:/workdir" \
             ghcr.io/igorshubovych/markdownlint-cli:latest \
             .
 

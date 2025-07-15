@@ -9,5 +9,3 @@ Timeline:
 - Dierdre can go and see the Nosferatu
 
 ## 2000
-
-
