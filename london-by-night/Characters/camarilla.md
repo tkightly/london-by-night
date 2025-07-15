@@ -1,6 +1,6 @@
 # Camarilla Characters
 
-## 🍖 Camarilla of London – Organizational Chart (Primogen Rule)
+## Camarilla of London – Organizational Chart (Primogen Rule)
 
 | Role                     | Name                 | Clan      | Summary                                                                                                             |
 | ------------------------ | -------------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |

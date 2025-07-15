@@ -1,4 +1,4 @@
-# 🧍‍♂️ Elias Crane – Ghoul of Gregory Shaw
+# Elias Crane – Ghoul of Gregory Shaw
 
 **Role:** Personal assistant
 **Type:** Ghoul (bound to Gregory Shaw)

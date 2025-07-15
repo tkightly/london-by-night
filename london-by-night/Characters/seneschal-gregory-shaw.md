@@ -1,4 +1,4 @@
-# 🧛 Gregory Shaw – Seneschal of London
+# Gregory Shaw – Seneschal of London
 
 **Clan:** Tremere
 **Generation:** 9th
