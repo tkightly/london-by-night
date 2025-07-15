@@ -30,16 +30,16 @@ Timeline:
   Generation: 10th
   Concept: Surveillance Engineer & Urban Crypt-Keeper
   Predator Type: Osiris (with a cult-like group of mortal tech junkies)
-  
+
   Description:
   Agatha, known as "Mother Wire," is draped in scavenged coats, a mass of Ethernet cables twisted like dreadlocks, and always smells faintly of mold and ozone. Her voice is a rasp of static, and her touch leaves a weird after-tingle. She builds the gear—hacked drones, retrofitted CCTV networks, haunted servers.
-  
+
   Her domain is underground—literally. She has cameras in sewer grates, motion detectors in storm drains, and microphones in broken intercoms. She considers urban decay not a failure, but opportunity.
-  
+
   She rarely speaks to anyone but Grin, who she treats like an unruly child she simultaneously resents and protects.
   ```
 
-  - their shop in Brent is tiny, and contains a row of monitors which view the city 
+  - their shop in Brent is tiny, and contains a row of monitors which view the city
 
 #### What they know
 
